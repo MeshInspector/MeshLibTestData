@@ -1,0 +1,3 @@
+# Test fixtures must be stored byte-for-byte. Disable all EOL/text conversion
+# so binary meshes and ASCII point clouds alike are preserved exactly.
+* -text
